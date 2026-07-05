@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "^4.0.0",
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "tslib": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^4.0.0"
+  },
+  "main": "/preview.tsx"
+}

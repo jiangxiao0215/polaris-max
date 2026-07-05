@@ -1,0 +1,43 @@
+{
+  "name": "@polaris-max/comp_polaris_max_demo",
+  "version": "1.0.0",
+  "description": "新的发布链路会把它打成 npm 包并同步到 polaris-max 仓库。",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "src",
+    "dist"
+  ],
+  "exports": {
+    ".": "./dist/index.js",
+    "./dist/index.css": "./dist/index.css"
+  },
+  "keywords": [
+    "polaris",
+    "component",
+    "react"
+  ],
+  "author": "Polaris Team",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiangxiao0215/polaris-max.git",
+    "directory": "packages/comp_polaris_max_demo"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
+  },
+  "polaris": {
+    "componentCode": "comp_polaris_max_demo",
+    "mainFile": "src/App.tsx",
+    "npmPackage": "@polaris-max/comp_polaris_max_demo",
+    "publishDate": "2026-07-05T13:31:14.486Z",
+    "reactVersion": "19.0.0"
+  }
+}
