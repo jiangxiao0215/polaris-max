@@ -1,5 +1,5 @@
 {
-  "name": "@polaris-max/comp_polaris_max_demo",
+  "name": "polaris-max-comp_polaris_max_demo",
   "version": "1.0.0",
   "description": "新的发布链路会把它打成 npm 包并同步到 polaris-max 仓库。",
   "main": "dist/index.js",
@@ -36,8 +36,8 @@
   "polaris": {
     "componentCode": "comp_polaris_max_demo",
     "mainFile": "src/App.tsx",
-    "npmPackage": "@polaris-max/comp_polaris_max_demo",
-    "publishDate": "2026-07-05T14:04:40.735Z",
+    "npmPackage": "polaris-max-comp_polaris_max_demo",
+    "publishDate": "2026-07-05T14:09:32.463Z",
     "reactVersion": "19.0.0"
   }
 }
