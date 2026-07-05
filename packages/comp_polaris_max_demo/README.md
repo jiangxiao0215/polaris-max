@@ -7,7 +7,7 @@
 ### npm
 
 ```bash
-npm install @polaris-max/comp-polaris-max-demo@1.0.0
+npm install @polaris-max/comp-polaris-max-demo@2.0.0
 ```
 
 ```tsx
@@ -19,7 +19,7 @@ import '@polaris-max/comp-polaris-max-demo/dist/index.css';
 
 ```html
 <script type="module">
-  import Component from 'https://cdn.jsdelivr.net/npm/@polaris-max/comp-polaris-max-demo@1.0.0/dist/index.js';
+  import Component from 'https://cdn.jsdelivr.net/npm/@polaris-max/comp-polaris-max-demo@2.0.0/dist/index.js';
 </script>
 ```
 
@@ -27,9 +27,9 @@ import '@polaris-max/comp-polaris-max-demo/dist/index.css';
 
 - 组件编码：comp_polaris_max_demo
 - npm 包：@polaris-max/comp-polaris-max-demo
-- 当前版本：1.0.0
+- 当前版本：2.0.0
 - React 版本：19.0.0
-- 发布时间：2026/7/5 22:22:01
+- 发布时间：2026/7/5 22:29:31
 
 ## 更新日志
 
