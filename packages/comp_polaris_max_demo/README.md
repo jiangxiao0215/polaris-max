@@ -7,29 +7,29 @@
 ### npm
 
 ```bash
-npm install polaris-max-comp_polaris_max_demo@1.0.0
+npm install polaris-max-comp-polaris-max-demo@1.0.0
 ```
 
 ```tsx
-import Component from 'polaris-max-comp_polaris_max_demo';
-import 'polaris-max-comp_polaris_max_demo/dist/index.css';
+import Component from 'polaris-max-comp-polaris-max-demo';
+import 'polaris-max-comp-polaris-max-demo/dist/index.css';
 ```
 
 ### CDN
 
 ```html
 <script type="module">
-  import Component from 'https://cdn.jsdelivr.net/npm/polaris-max-comp_polaris_max_demo@1.0.0/dist/index.js';
+  import Component from 'https://cdn.jsdelivr.net/npm/polaris-max-comp-polaris-max-demo@1.0.0/dist/index.js';
 </script>
 ```
 
 ## 版本信息
 
 - 组件编码：comp_polaris_max_demo
-- npm 包：polaris-max-comp_polaris_max_demo
+- npm 包：polaris-max-comp-polaris-max-demo
 - 当前版本：1.0.0
 - React 版本：19.0.0
-- 发布时间：2026/7/5 22:17:11
+- 发布时间：2026/7/5 22:19:14
 
 ## 更新日志
 
