@@ -29,7 +29,7 @@ import '@polaris-max/comp_polaris_max_demo/dist/index.css';
 - npm 包：@polaris-max/comp_polaris_max_demo
 - 当前版本：1.0.0
 - React 版本：19.0.0
-- 发布时间：2026/7/5 21:58:49
+- 发布时间：2026/7/5 21:59:30
 
 ## 更新日志
 
